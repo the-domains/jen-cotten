@@ -1,7 +1,7 @@
 name: Jen Cotten
 favicon: null
-layout_spectrum: 0.9631236982531846
-typography_spectrum: 0.0900917761027813
+layout_spectrum: 0.99244
+typography_spectrum: 0.75486
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.44457843038253486
-  lightness: 0.5580748375505209
-  saturation: 0.5487094316631556
-  rhythmicContrast: 0.6613357211463153
+    - '#424941'
+    - '#11161a'
+    - '#938e8a'
+    - '#d8e5f5'
+    - '#9a1733'
+  brandStrength: 0.4375
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
