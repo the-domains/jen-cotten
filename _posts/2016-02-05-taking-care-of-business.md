@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T04:46:09.294Z'
-dateModified: '2016-02-05T04:45:53.767Z'
-title: Taking care of business
+datePublished: '2016-02-05T16:25:32.109Z'
+dateModified: '2016-02-05T16:25:30.323Z'
+title: Taking care of business.
 author: []
+sourcePath: _posts/2016-02-05-taking-care-of-business.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-taking-care-of-business.md
-published: true
 url: taking-care-of-business/index.html
 _type: Article
 
 ---
-# Taking care of business
+# Taking care of business.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1696b54-2935-4946-ad61-b94acb4a0ecd.jpg)
