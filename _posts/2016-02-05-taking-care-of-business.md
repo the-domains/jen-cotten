@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-05T16:25:32.109Z'
-dateModified: '2016-02-05T16:25:30.323Z'
+datePublished: '2016-02-05T16:28:10.685Z'
+dateModified: '2016-02-05T16:27:47.795Z'
 title: Taking care of business.
 author: []
 sourcePath: _posts/2016-02-05-taking-care-of-business.md
