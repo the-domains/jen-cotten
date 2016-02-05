@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T05:04:12.323Z'
-dateModified: '2016-02-05T05:00:46.840Z'
+datePublished: '2016-02-05T05:27:01.305Z'
+dateModified: '2016-02-05T05:26:49.633Z'
 title: '"Do your best and have fun."'
 author: []
 authors: []
@@ -25,3 +25,4 @@ _type: Article
 # "Do your best and have fun."
 
 -Mom
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e267988a-67ab-45b7-a732-983c08d6db30.jpg)
