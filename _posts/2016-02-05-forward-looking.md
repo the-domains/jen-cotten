@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-05T05:04:12.553Z'
-dateModified: '2016-02-05T05:03:57.196Z'
+datePublished: '2016-02-05T05:24:16.254Z'
+dateModified: '2016-02-05T05:24:05.952Z'
 title: Forward looking
 author: []
 authors: []
@@ -23,3 +23,4 @@ _type: Article
 
 ---
 # Forward looking
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db35ed79-4f90-42c4-ac29-266aab440003.jpg)
