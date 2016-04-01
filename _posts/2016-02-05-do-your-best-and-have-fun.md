@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '-Mom'
-datePublished: '2016-04-01T22:48:03.040Z'
-dateModified: '2016-04-01T22:47:56.747Z'
+datePublished: '2016-04-01T22:54:42.079Z'
+dateModified: '2016-04-01T22:48:42.113Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-02-05-do-your-best-and-have-fun.md
@@ -22,4 +22,4 @@ url: do-your-best-and-have-fun/index.html
 _type: Article
 
 ---
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e267988a-67ab-45b7-a732-983c08d6db30.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e267988a-67ab-45b7-a732-983c08d6db30.jpg)
