@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-05T16:32:47.074Z'
-dateModified: '2016-02-05T16:32:43.903Z'
+datePublished: '2016-04-01T22:46:17.936Z'
+dateModified: '2016-02-15T16:47:07.904Z'
 title: '"Do your best and have fun."'
 author: []
+sourcePath: _posts/2016-02-05-do-your-best-and-have-fun.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-05-do-your-best-and-have-fun.md
-published: true
 url: do-your-best-and-have-fun/index.html
 _type: Article
 
