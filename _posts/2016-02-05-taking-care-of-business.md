@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-05T16:28:10.685Z'
-dateModified: '2016-02-05T16:27:47.795Z'
-title: Taking care of business.
+datePublished: '2016-04-02T00:55:00.385Z'
+dateModified: '2016-04-02T00:55:00.165Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-02-05-taking-care-of-business.md
 published: true
@@ -22,5 +22,4 @@ url: taking-care-of-business/index.html
 _type: Article
 
 ---
-# Taking care of business.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1696b54-2935-4946-ad61-b94acb4a0ecd.jpg)
