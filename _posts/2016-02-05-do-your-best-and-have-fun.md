@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-02T00:53:52.646Z'
-dateModified: '2016-04-01T22:59:19.294Z'
+datePublished: '2016-04-02T00:56:54.534Z'
+dateModified: '2016-04-02T00:56:43.222Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-05-do-your-best-and-have-fun.md
