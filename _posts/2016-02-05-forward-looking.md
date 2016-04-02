@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-02T17:06:49.887Z'
-dateModified: '2016-04-02T17:06:40.657Z'
+datePublished: '2016-04-02T17:07:07.476Z'
+dateModified: '2016-04-02T17:06:58.158Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-02-05-forward-looking.md
