@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-02T00:54:09.456Z'
-dateModified: '2016-04-02T00:54:09.137Z'
+datePublished: '2016-04-02T00:58:23.364Z'
+dateModified: '2016-04-02T00:58:12.980Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-02-05-forward-looking.md
